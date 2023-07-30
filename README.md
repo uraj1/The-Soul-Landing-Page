@@ -3,7 +3,13 @@ This is a landing page of a headphone company The Soul. This includes all the fe
 
 The link for the hosted project is https://live-soul.netlify.app
 
-![Uploading Screenshot (93).png…]()
-![Uploading Screenshot (92).png…]()
-![Uploading Screenshot (94).png…]()
-![Screenshot (95)](https://github.com/uraj1/The-Soul-Landing-Page/assets/139366493/2f7fc1d7-d90c-486f-b5bb-b756fa0f503b)
+![Screenshot (92)](https://github.com/uraj1/The-Soul-Landing-Page/assets/139366493/7cac165d-26bd-4a78-bb59-c0d616ca67d1)
+
+
+![Screenshot (93)](https://github.com/uraj1/The-Soul-Landing-Page/assets/139366493/72bedd04-4a14-448b-8a4c-551122c106aa)
+
+
+![Screenshot (94)](https://github.com/uraj1/The-Soul-Landing-Page/assets/139366493/dac03013-0a79-4e05-b8e0-68dd36d95974)
+
+
+![Screenshot (95)](https://github.com/uraj1/The-Soul-Landing-Page/assets/139366493/b970e7d0-987d-4fcc-b010-3848ec8a9c44)
